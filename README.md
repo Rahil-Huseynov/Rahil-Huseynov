@@ -5,6 +5,6 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_rahilhuseynov/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahil-huseynov/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/huseynov_rahil) [![My Website](https://github.com/user-attachments/assets/8928ff30-1895-40d5-ace8-cf7b107969a1?style=for-the-badge&logo=html5&logoColor=white)](https://rahil-huseynov.netlify.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_rahilhuseynov/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahil-huseynov/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/huseynov_rahil) [![My Website](https://img.shields.io/badge/My_Website-%23323330.svg?style=for-the-badge)](https://rahil-huseynov.netlify.app/) 
 
 
