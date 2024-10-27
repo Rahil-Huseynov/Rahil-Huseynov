@@ -9,5 +9,4 @@
 
 
 ### 🔗 Website :
-[![](https://www.flaticon.com/free-icon/internet_10453141?term=website&page=1&position=13&origin=search&related_id=10453141#)](https://instagram.com/https://www.instagram.com/_rahilhuseynov/)
 ![My Website](https://www.svgrepo.com/download/494580/website-seo-promotion.svg?style=for-the-badge&logo=html5&logoColor=white)
