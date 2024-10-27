@@ -9,4 +9,4 @@
 
 
 ### 🔗 Website :
-![My Website](https://github.com/user-attachments/assets/8928ff30-1895-40d5-ace8-cf7b107969a1)
+![My Website](https://github.com/user-attachments/assets/8928ff30-1895-40d5-ace8-cf7b107969a1?style=for-the-badge&logo=html5&logoColor=white)
