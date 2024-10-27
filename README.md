@@ -6,3 +6,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_rahilhuseynov/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahil-huseynov/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/huseynov_rahil) 
+
+
+### [![Website:](https://www.flaticon.com/free-icon/ux_1055666?term=website&page=1&position=12&origin=search&related_id=1055666#)]
+[![My Website:](https://www.flaticon.com/free-icon/internet_10453141?term=website&page=1&position=13&origin=search&related_id=10453141#)](https://instagram.com/https://www.instagram.com/_rahilhuseynov/)
