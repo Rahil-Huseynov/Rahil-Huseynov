@@ -9,4 +9,4 @@
 
 
 ### 🔗 Website :
-![My Website](https://www.svgrepo.com/download/494580/website-seo-promotion.svg?style=for-the-badge&logo=html5&logoColor=white)
+![My Website](https://www.svgrepo.com/download/494580/website-seo-promotion.svg?style=for-the-badge&logo=html5&logoColor=white&width:30px)
