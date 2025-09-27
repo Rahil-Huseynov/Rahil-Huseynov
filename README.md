@@ -1,6 +1,6 @@
 ## My Skill Set  
 <div align="center">
-<table align="center" width="100%""><tr><td style="width: 33%;" valign="top">
+<table align="center"><tr><td style="width: 33%;" valign="top">
 
 ### Frontend  
 <div align="center">  
