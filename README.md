@@ -4,7 +4,7 @@
 
 ## My Skill Set  
 <div align="center" width="100%">
-<table align="center" width="100%""><tr><td valign="top">
+<table align="center" width="100%""><tr><td width="100% valign="top">
 
 
 
@@ -25,7 +25,7 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 </div>
 
-</td><td valign="top">
+</td><td width="100% valign="top">
 
 
 
@@ -40,7 +40,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
-</td><td valign="top">
+</td><td width="100% valign="top">
 
 
 
