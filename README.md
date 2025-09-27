@@ -20,4 +20,4 @@
 
 ## Languages I Use Most 
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahil-huseynov&hide_border=true&layout=compact&bg_color=00000000&color=ffffff" style="width: 100%; max-width: 900px; height: auto;" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahil-huseynov&hide_border=true&layout=compact&bg_color=00000000&color=ffffff" style="width: 100%; max-width: 600px; height: auto;" /> </div>
