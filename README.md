@@ -4,7 +4,7 @@
 
 
 ## My Skill Set  
-<table width="100%"><tr><td valign="top">
+<table align="center" width="100%"><tr><td valign="top">
 
 
 
