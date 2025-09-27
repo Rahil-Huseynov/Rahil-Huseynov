@@ -18,6 +18,6 @@
 
 <div align="center"> <a href="https://www.linkedin.com/in/rahil-huseynov/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" /> </a> <a href="https://www.instagram.com/_rahilhuseynov/" target="_blank"> <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" /> </a> <a href="https://github.com/Rahil-Huseynov" target="_blank"> <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" /> </a> <a href="https://x.com/huseynov_rahil" target="_blank"> <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" /> </a> <a href="https://rahil-huseynov.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/My_Website-%23323330.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="website" style="margin-bottom: 5px;" /> </a> </div> 
 
-## Languages I Use Most 
+## Top Languages
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahil-huseynov&hide_border=true&layout=compact&bg_color=00000000&color=ffffff" style="width: 100%; max-width: 600px; height: auto;" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahil-huseynov&hide_border=true&layout=compact&bg_color=00000000&color=ffffff" style="width: 80%; max-width: 200px; height: auto;" /> </div>
