@@ -7,12 +7,15 @@
 
 ### Frontend
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" style="margin: 10px; height: 60px; width: auto;" /></a>
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" style="margin: 10px; height: 60px; width: auto;" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" style="margin: 10px; height: 60px; width: auto;" /></a>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" style="margin: 10px; height: 60px; width: auto;" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" style="margin: 10px; height: 60px; width: auto;" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" style="margin: 10px; height: 60px; width: auto;" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" style="margin: 10px; height: 60px; width: auto;" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" style="margin: 10px; height: 60px; width: auto;" /></a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" style="margin: 10px; height: 60px; width: auto;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" style="margin: 10px; height: 60px; width: auto;" /></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" style="margin: 10px; height: 60px; width: auto;" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" style="margin: 10px; height: 60px; width: auto;" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.simpleicons.org/next.js/000000" alt="NextJS" style="margin: 10px; height: 60px; width: auto;" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" style="margin: 10px; height: 60px; width: auto;" /></a>
+  <a href="https://mui.com/" target="_blank"><img src="https://cdn.simpleicons.org/materialui/007FFF" alt="Material UI" style="margin: 10px; height: 60px; width: auto;" /></a>
 </div>
 
 </td>
@@ -21,12 +24,11 @@
 
 ### Backend
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" style="margin: 10px; height: 60px; width: auto;" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" style="margin: 10px; height: 60px; width: auto;" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" style="margin: 10px; height: 60px; width: auto;" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" style="margin: 10px; height: 60px; width: auto;" /></a>
-  <a href="https://nestjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" style="margin: 10px; height: 60px; width: auto;" /></a>
-  <a href="https://www.prisma.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" style="margin: 10px; height: 60px; width: auto;" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" style="margin: 10px; height: 60px; width: auto;" /></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" style="margin: 10px; height: 60px; width: auto;" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.simpleicons.org/postgresql/31648C" alt="PostgreSQL" style="margin: 10px; height: 60px; width: auto;" /></a>
+  <a href="https://www.prisma.io/" target="_blank"><img src="https://cdn.simpleicons.org/prisma/0C344B" alt="Prisma" style="margin: 10px; height: 60px; width: auto;" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" style="margin: 10px; height: 60px; width: auto;" /></a>
 </div>
 
 </td>
@@ -35,10 +37,10 @@
 
 ### DevOps
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" style="margin: 10px; height: 60px; width: auto;" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" style="margin: 10px; height: 60px; width: auto;" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" style="margin: 10px; height: 60px; width: auto;" /></a>
-  <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" style="margin: 10px; height: 60px; width: auto;" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" style="margin: 10px; height: 60px; width: auto;" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" style="margin: 10px; height: 60px; width: auto;" /></a>
+  <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://cdn.simpleicons.org/raspberrypi/C51A4A" alt="Raspberry Pi" style="margin: 10px; height: 60px; width: auto;" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" style="margin: 10px; height: 60px; width: auto;" /></a>
 </div>
 
 </td>
@@ -60,7 +62,7 @@
 </a>
 <a href="https://x.com/huseynov_rahil" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
-</a>
+</a>  
 <a href="https://rahil-huseynov.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/My_Website-%23323330.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="website" style="margin-bottom: 5px;" />
 </a>
