@@ -71,5 +71,5 @@
 </a>  
 </div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahil-huseynov&hide_border=true&layout=compact&bg_color=00000000" align="center" style="width: 100%; background-color: black;" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahil-huseynov&hide_border=true&layout=compact&bg_color=00000000&color=ffffff" align="center" style="width: 100%; background-color: black;" /></div>  
 <br />
