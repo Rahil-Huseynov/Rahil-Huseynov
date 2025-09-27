@@ -38,7 +38,7 @@
   <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" style="margin: 10px; height: 50px; width: auto;" /></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" style="margin: 10px; height: 50px; width: auto;" /></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" style="margin: 10px; height: 50px; width: auto;" /></a>
-  <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" style="margin: 10px; height: 50px; width: auto;" /></a>
+  <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://www.pngfind.com/mpng/iTTTwb_logo-raspberry-pi-icon-hd-png-download/" alt="Raspberry Pi" style="margin: 10px; height: 50px; width: auto;" /></a>
 </div>
 
 </td>
