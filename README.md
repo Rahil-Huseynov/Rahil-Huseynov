@@ -7,12 +7,12 @@
 
 ### Frontend
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" style="margin: 10px; max-width: 80px; height: auto;" /></a>
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" style="margin: 10px; max-width: 80px; height: auto;" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" style="margin: 10px; max-width: 80px; height: auto;" /></a>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" style="margin: 10px; max-width: 80px; height: auto;" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" style="margin: 10px; max-width: 80px; height: auto;" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" style="margin: 10px; max-width: 80px; height: auto;" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" style="margin: 10px; height: 50px; width: auto;" /></a>
+  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" style="margin: 10px; height: 50px; width: auto;" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" style="margin: 10px; height: 50px; width: auto;" /></a>
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" style="margin: 10px; height: 50px; width: auto;" /></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" style="margin: 10px; height: 50px; width: auto;" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" style="margin: 10px; height: 50px; width: auto;" /></a>
 </div>
 
 </td>
@@ -21,12 +21,12 @@
 
 ### Backend
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" style="margin: 10px; max-width: 80px; height: auto;" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" style="margin: 10px; max-width: 80px; height: auto;" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" style="margin: 10px; max-width: 80px; height: auto;" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" style="margin: 10px; max-width: 80px; height: auto;" /></a>
-  <a href="https://nestjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" style="margin: 10px; max-width: 80px; height: auto;" /></a>
-  <a href="https://www.prisma.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" style="margin: 10px; max-width: 80px; height: auto;" /></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" style="margin: 10px; height: 50px; width: auto;" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" style="margin: 10px; height: 50px; width: auto;" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" style="margin: 10px; height: 50px; width: auto;" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" style="margin: 10px; height: 50px; width: auto;" /></a>
+  <a href="https://nestjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" style="margin: 10px; height: 50px; width: auto;" /></a>
+  <a href="https://www.prisma.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" style="margin: 10px; height: 50px; width: auto;" /></a>
 </div>
 
 </td>
@@ -35,10 +35,10 @@
 
 ### DevOps
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" style="margin: 10px; max-width: 80px; height: auto;" /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" style="margin: 10px; max-width: 80px; height: auto;" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" style="margin: 10px; max-width: 80px; height: auto;" /></a>
-  <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" style="margin: 10px; max-width: 80px; height: auto;" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" style="margin: 10px; height: 50px; width: auto;" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" style="margin: 10px; height: 50px; width: auto;" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" style="margin: 10px; height: 50px; width: auto;" /></a>
+  <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" style="margin: 10px; height: 50px; width: auto;" /></a>
 </div>
 
 </td>
