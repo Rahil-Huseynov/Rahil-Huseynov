@@ -3,8 +3,8 @@
 <br/>  
 
 ## My Skill Set  
-<div width="100%">
-<table width="100%" style="margin: 0 auto;"><tr><td valign="top">
+<div align="center" width="100%">
+<table align="center" width="100%""><tr><td valign="top">
 
 
 
