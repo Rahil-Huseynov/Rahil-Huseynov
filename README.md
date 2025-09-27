@@ -30,6 +30,8 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.simpleicons.org/node.js/339933" alt="Node.js" style="margin: 10px; height: 60px; width: auto;" /></a>
   <a href="https://nestjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" style="margin: 10px; height: 60px; width: auto;" /></a>
+    <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" style="margin: 10px; height: 60px; width: auto;" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" style="margin: 10px; height: 60px; width: auto;" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.simpleicons.org/postgresql/31648C" alt="PostgreSQL" style="margin: 10px; height: 60px; width: auto;" /></a>
   <a href="https://www.prisma.io/" target="_blank"><img src="https://cdn.simpleicons.org/prisma/0C344B" alt="Prisma" style="margin: 10px; height: 60px; width: auto;" /></a>
 </div>
