@@ -32,7 +32,6 @@
   <a href="https://nestjs.com/" target="_blank"><img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" style="margin: 10px; height: 60px; width: auto;" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.simpleicons.org/postgresql/31648C" alt="PostgreSQL" style="margin: 10px; height: 60px; width: auto;" /></a>
   <a href="https://www.prisma.io/" target="_blank"><img src="https://cdn.simpleicons.org/prisma/0C344B" alt="Prisma" style="margin: 10px; height: 60px; width: auto;" /></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" style="margin: 10px; height: 60px; width: auto;" /></a>
 </div>
 
 </td>
@@ -42,7 +41,9 @@
 ### DevOps
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" style="margin: 10px; height: 60px; width: auto;" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" style="margin: 10px; height: 60px; width: auto;" /></a>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="margin: 10px; height: 60px; width: auto;" />
+</a>
   <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://cdn.simpleicons.org/raspberrypi/C51A4A" alt="Raspberry Pi" style="margin: 10px; height: 60px; width: auto;" /></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" style="margin: 10px; height: 60px; width: auto;" /></a>
 </div>
