@@ -1,8 +1,6 @@
 ## My Skill Set  
-<div align="center" width="100vw">
+<div align="center" style="width: 100% !important;">
 <table align="center" width="100%""><tr><td valign="top">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -23,8 +21,6 @@
 
 </td><td valign="top">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -37,8 +33,6 @@
 </div>
 
 </td><td valign="top">
-
-
 
 ### DevOps  
 <div align="center">  
@@ -71,5 +65,6 @@
 </a>  
 </div>  
 
+## Languages I Use Most  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahil-huseynov&hide_border=true&layout=compact&bg_color=00000000&color=ffffff" align="center" style="width: 100%; background-color: black;" /></div>  
 <br />
