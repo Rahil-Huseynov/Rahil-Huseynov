@@ -1,7 +1,3 @@
-  
-
-<br/>  
-
 ## My Skill Set  
 <div align="center" width="100vw">
 <table align="center" width="100%""><tr><td valign="top">
@@ -56,9 +52,6 @@
 
 </div>
 
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahil-huseynov/" target="_blank">
@@ -73,30 +66,11 @@
 <a href="https://twitter.com/https://x.com/huseynov_rahil" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
+<a href="https://rahil-huseynov.netlify.app/" target="_blank">
+<img src=https://img.shields.io/badge/My_Website-%23323330.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
 </div>  
   
-
-<br/>  
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahil-huseynov&hide_border=true&layout=compact" align="center" style="width: 100%; background-color: black;" /></div>  
-
-<br/>  
-<br/>  
-
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
 <br />
